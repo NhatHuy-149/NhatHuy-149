@@ -15,4 +15,4 @@
 ![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
 
 ---
-⭐️ From [Gaboso](https://github.com/NhatHuy-149)
+⭐️ From [Nhat-Huy](https://github.com/NhatHuy-149)
